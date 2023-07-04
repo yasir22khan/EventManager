@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  db:
+    container_name: event-db
+    image: mysql:8.0
+    ports:
+      - '3306:3306'
+    environment:
+      MYSQL_ROOT_PASSWORD: P@ssW0rd!
+      MYSQL_USER: user
+      MYSQL_PASSWORD: P@ssW0rd!
+      MYSQL_ROOT_HOST: '%'

@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=92741cb3_002Da93e_002D43e1_002Dacac_002Dda80244f9553/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAllAsync_ShouldReturn200Status #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9CC8FB8F-C595-4D8E-8723-1A3B31078931::net7.0::EventTest.TestEventController.GetAllAsync_ShouldReturn200Status&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a7e0a35f_002D6f52_002D4580_002D9e23_002Dd0a248f713a8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetAllAsync_ShouldReturn200Status" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9CC8FB8F-C595-4D8E-8723-1A3B31078931::net7.0::EventTest.TestEventController.GetAllAsync_ShouldReturn200Status&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
